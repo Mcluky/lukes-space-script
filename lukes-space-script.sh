@@ -118,7 +118,7 @@ echo "
 
 print_space
 
-print_typing "Now I always had the idea of actually bringing Nyan cat to space... So here we go:"
+print_typing "Now I always had the idea of actually bringing Nyan cat to space..."
 
 echo "
 
