@@ -8,7 +8,7 @@ print_typing() {
         rest="${tmp#?}" # remove first char
         first="${tmp%"$rest"}"    # get first char
         echo -n "$first"
-        sleep 0.05
+        sleep 0.04
         tmp="$rest"
     done
 }
@@ -16,11 +16,11 @@ print_typing() {
 print_space () {
     echo ""
     echo ""
-    sleep 0.3
+    sleep 0.2
     echo -n "."
-    sleep 0.3
+    sleep 0.2
     echo -n "."
-    sleep 0.3
+    sleep 0.2
     echo -n "."
     echo ""
 }
@@ -310,6 +310,10 @@ echo "
 
 print_space
 
+print_typing "Hello Emma, greetings from Space :)  - Emma"
+
+print_space
+
 print_typing "A plant in honor of my family: "
 
 echo "
@@ -327,7 +331,7 @@ CO*9O0*89PBCOPL*SOBB*
   .....//||||\....
 "
 
-print_typing "At last, the one picture my dear friend Ariane drew for me which eventually allowed me to go to ESA and made all this possible: "
+print_typing "And at last, the one picture my dear friend Ariane drew for me which eventually allowed me to go to ESA and made all this possible: "
 
 echo "
                                                                                                                         
@@ -395,4 +399,4 @@ print_typing "A big “Thank you“ to the very cool OPS-SAT team that made send
 
 print_space
 
-print_typing "This was it, thank you for joing along the ride. This Luke signing off! See you in space! ;)"
+print_typing "This was it, thank you for joing along the ride. This is Luke signing off! See you in space! ;)"
