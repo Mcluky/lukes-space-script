@@ -146,7 +146,7 @@ print_typing "Before I continue, I wanted to thank some friends and special peop
 
 print_space
 
-print_typing "To my dearest friend Julian:"
+print_typing "For my dearest friend Julian:"
 
 echo "
     _                     _
