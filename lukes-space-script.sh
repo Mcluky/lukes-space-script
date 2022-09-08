@@ -41,11 +41,10 @@ print_typing "This is Luke's space script, my first piece of code that will be e
 print_space
 
 print_typing "Needless to say, I'm super excited about this!"
-print_typing "I hope you are too!"
 
 print_space
 
-print_typing "I always had some ideas about what I would do if I ever got the chance to send a message to space. So here we go! Buckle up and enjoy the ride!"
+print_typing "I always had some ideas about what I would do if I ever got the chance to send a message to space. So here we go!"
 
 print_space
 
@@ -143,7 +142,7 @@ print_typing "Maybe the first Nyan Cat in space?"
 
 print_space
 
-print_typing "Before I continue, I wanted to thank some friends and special people in my life. Without them, I would not be here today. So here we go:"
+print_typing "Before I continue, I wanted to thank some friends and special people in my life. Without them, I would not be here today."
 
 print_space
 
@@ -298,6 +297,7 @@ echo "
         my final message."
 
 print_space
+
 print_typing "Piece of code for Florian: "
 
 echo "
@@ -330,6 +330,8 @@ CO*9O0*89PBCOPL*SOBB*
         |||||
   .....//||||\....
 "
+
+print_space
 
 print_typing "And at last, the one picture my dear friend Ariane drew for me which eventually allowed me to go to ESA and made all this possible: "
 
