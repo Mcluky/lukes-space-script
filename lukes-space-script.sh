@@ -138,7 +138,7 @@ echo "
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 "
                     
-print_typing "Maybe the first Nyan Cat in space?"
+print_typing "... Maybe the first Nyan Cat in space?"
 
 print_space
 
