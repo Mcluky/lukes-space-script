@@ -1,6 +1,6 @@
 # 🛰️ Luke's Space Script 🪐
 
-Hi! I'm Luke, and this repository contains the first piece of code I've written that was executed in space. The script did not do anything particularly useful except that I can now say, that I've written code that's been in space! 🚀. I don't think a lot of people can claim that, so I'm pretty proud of it. I also don't think a lot of people can say they sent a selfie or a picture of a smoking rat to space, so I'm pretty proud of that too. 🐀
+Hi! I'm Luke, and this repository contains the first piece of code I've written that was executed in space. The script did not do anything particularly useful except that I can now say, that I've written code that's been in space! 🚀. 
 
 ## 🚀 The Mission
 
